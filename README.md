@@ -1,13 +1,13 @@
-#OKE2018 CHALLENGE 
+# OKE2018 CHALLENGE 
 
-##Task 1: Focused Named Entity Identification and Linking
+## Task 1: Focused Named Entity Identification and Linking
 Link do zadania: [Task 1: Focused Named Entity Identification and Linking](https://project-hobbit.eu/challenges/oke2018-challenge-eswc-2018/tasks/#task1).
 
-###Autorzy
+### Autorzy
 - Jacek Kmiecik
 - Michał Stancelewski
  
-###Przedmiot
+### Przedmiot
 - Przedmiot: **Zastosowania Technologii Informatycznych** 
 - Prowadzący: **dr inż. Jarosław Bąk** 
 - Kierunek: **Informatyka, studia niestacjonarne, semestr 8** 
