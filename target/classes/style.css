@@ -1,0 +1,18 @@
+.root{
+	-fx-background-color: #e0e0e0;
+	-fx-font-size: 12pt;
+    -fx-font-family: "Roboto";
+}
+
+.button {
+  -fx-background-color: #0cc7d5;
+  -fx-text-fill: #fefefe;
+  -fx-padding: 5px 15px;
+  -fx-text-align: center;
+  -fx-font-weight: bold;
+}
+
+.button:hover {
+  -fx-background-color: #0bb6c4;
+}
+

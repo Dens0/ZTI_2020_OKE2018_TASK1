@@ -7,6 +7,21 @@
     <groupId>put.poznan.pl</groupId>
     <artifactId>ZTI_2020_OKE2018_TASK1</artifactId>
     <version>1.0</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.nlp2rdf</groupId>
+            <artifactId>nif</artifactId>
+            <version>0.4.1</version>
+        </dependency>
+    </dependencies>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
 </project>
