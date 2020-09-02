@@ -2,7 +2,6 @@ package zti.projekt;
 
 import javafx.concurrent.Service;
 import javafx.concurrent.Task;
-
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
@@ -34,9 +33,6 @@ public class Identification extends Service<String> {
                     e.printStackTrace();
                 }
 
-                //TODO DELETE?
-                RDFservice rdFservice = new RDFservice();
-
                 TextProcessor textProcessor = new TextProcessor();
                 HashMap<String, String> entities = null;
                 try {
@@ -57,7 +53,7 @@ public class Identification extends Service<String> {
                 {
                     taskLink = matcher.group();
                 }
-                String regex ="\"char=[0-9]*,[0-9]*\"";
+                String regex ="char=[0-9]*,[0-9]*";
                 Pattern charPattern = Pattern.compile(regex);
                 Matcher charMatcher = charPattern.matcher(taskLink);
                 String charSection = "";

@@ -15,6 +15,6 @@ Link do zadania: [Task 1: Focused Named Entity Identification and Linking](https
 
 ### Zastosowane technologie
 - IDE IntelliJ IDEA
-- Java (8)
+- Java (1.8)
 - GUI JavaFX
 - Maven
