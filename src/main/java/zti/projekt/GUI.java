@@ -17,6 +17,9 @@ public class GUI {
     public void init() {
         indicator.setVisible(false);
 
+        inputTextArea.setId("input-text-area");
+        outputTextArea.setId("output-text-area");
+
         submitButton.setOnAction(event -> {
             indicator.setVisible(true);
             String sourceText = inputTextArea.getText();
