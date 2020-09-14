@@ -1,0 +1,29 @@
+
+
+Version:	3.12
+CmdLine:	D:\Uczelnia\ZTI\ZTI_2020_OKE2018_TASK1\start.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Uczelnia\ZTI\ZTI_2020_OKE2018_TASK1\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_151\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_151
+Check launcher:	C:\Program Files\Java\jre1.8.0_151\bin\javaw.exe (OK)
+Match:		1.008.000_151
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_131
+Ignore:		1.008.000_131
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_144
+Ignore:		1.008.000_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_151 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_151\bin\javaw.exe
+Launcher args:	-jar "D:\Uczelnia\ZTI\ZTI_2020_OKE2018_TASK1\start.exe"
+Args length:	55/32768 chars
+Exit code:	0

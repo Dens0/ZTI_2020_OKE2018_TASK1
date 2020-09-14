@@ -1,0 +1,29 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#>.
+<http://example.com/example-jb2#char=0,83>
+ a nif:RFC5147String , nif:String , nif:Context ;
+ nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+ nif:endIndex "83"^^xsd:nonNegativeInteger ;
+ nif:isString "Donald Tusk was a polish prime minister and Barack Obama was an american president."^^xsd:string .
+ 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#>.
+<http://example.com/example-jb2#char=0,130>
+ a nif:RFC5147String , nif:String , nif:Context ;
+ nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+ nif:endIndex "130"^^xsd:nonNegativeInteger ;
+ nif:isString "William Ian Lawther was a Northern Irish footballer who played for Sunderland and five other clubs in the English Football League."^^xsd:string .
+ 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#>.
+<http://example.com/example-jb2#char=0,102>
+ a nif:RFC5147String , nif:String , nif:Context ;
+ nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+ nif:endIndex "102"^^xsd:nonNegativeInteger ;
+ nif:isString "Jako student medycyny, Abildgaard wyjechał do Francji, gdzie w latach 1763–1766 studiował weterynarię."^^xsd:string .
